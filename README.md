@@ -1,4 +1,5 @@
 ### Hi there it's saltwoodYJ's github 👋
+[![saltwoodYJ's github stats](https://github-readme-stats.vercel.app/api?username=saltwoodYJ)](https://github.com/saltwoodYJ/github-readme-stats)
 
 
 ### 🌱I'm currently lerning🌱
